@@ -8,7 +8,7 @@ If you plan on simply using these trees, sync the non test trees. If you plan on
 
 Dependencies required for building with these trees (android 12+):
 
-
+###################################################################################
 
 CAF display
 
@@ -21,6 +21,7 @@ https://github.com/xxseva44/hardware_qcom-caf_msm8996_display.git
 Branch: twelve-LA.UM.9.6.2.r1-04100-89xx.0
 
 
+###################################################################################
 
 CAF media
 
@@ -33,6 +34,7 @@ https://github.com/PixelExperience/hardware_qcom-caf_msm8996_media.git
 Branch: twelve-LA.UM.9.6.2.r1-04100-89xx.0
 
 
+###################################################################################
 
 Modified Broadcom FM
 
@@ -41,6 +43,7 @@ Goes in the following dir: android/hardware/broadcom
 Credit: Stendro
 
 
+###################################################################################
 
 Kernel | Swan2000 Linux Version: 4.4.205
 
@@ -51,6 +54,7 @@ Branch: LGE-4.4-new-Swan2000
 Credit: Stendro & AShiningRay
 
 
+###################################################################################
 
 LGE Dac interface hal
 
@@ -61,6 +65,7 @@ Branch: lineage-19.1
 Credit: SGCMarkus
 
 
+###################################################################################
 
 LGE 8996 Devices
 
@@ -69,6 +74,7 @@ Goes in the following dir: android/device/lge
 Branch: Android-12_AOSP
 
 
+###################################################################################
 
 LGE v20-common
 
@@ -77,6 +83,7 @@ Goes in the following dir: android/device/lge
 Branch: Android-12
 
 
+###################################################################################
 
 LGE common
 
@@ -84,6 +91,7 @@ Goes in the following dir: android/device/lge
 
 Branch: Android-12
 
+###################################################################################
 
 LGE Vendor
 
