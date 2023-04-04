@@ -2,6 +2,15 @@ LGE-G5-G6-V20
 
 Welcome to the LGE-G5-G6-V20 organization. WIP...
 
+About|
+This org contains modified version of the lineage os msm8996 platform trees 
+and consists of the device specific trees for; V20, G5 and G6.
+
+
+
+
+
+
 ###################################################################################
 
 CAF display
